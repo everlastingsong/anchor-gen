@@ -21,4 +21,4 @@ anchor-syn = { version = "0.24.2", features = ["idl"] }
 syn = { version = "1", features = ["full"] }
 
 [dev-dependencies]
-anchor-lang = "0.24.2"
+anchor-lang = "0.25.0"
